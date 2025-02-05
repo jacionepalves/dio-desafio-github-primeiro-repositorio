@@ -1,0 +1,3 @@
+
+Link para dowload do Git: https://git-scm.com/downloads
+o Bit Bash é terminal extendido para otimizar o uso do Git.
